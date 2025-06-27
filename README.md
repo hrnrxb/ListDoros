@@ -27,4 +27,3 @@
 <p align="center">
 Stay updated on course selection tips, shared notes, resources, and discussion.
 </p>
-
